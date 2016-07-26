@@ -1,2 +1,2 @@
 # PokemonNames
-Pokemon names multilingual support.
+Pokemon names multilingual support for Android.
