@@ -28,10 +28,10 @@
 	<string name="raichu">ライチュウ</string>
 	<string name="sandshrew">サンド</string>
 	<string name="sandslash">サンドパン</string>
-	<string name="nidoran♀">ニドラン♀</string>
+	<string name="nidoran_famale">ニドラン♀</string>
 	<string name="nidorina">ニドリーナ</string>
 	<string name="nidoqueen">ニドクイン</string>
-	<string name="nidoran♂">ニドラン♂</string>
+	<string name="nidoran_male">ニドラン♂</string>
 	<string name="nidorino">ニドリーノ</string>
 	<string name="nidoking">ニドキング</string>
 	<string name="clefairy">ピッピ</string>
@@ -82,7 +82,7 @@
 	<string name="slowbro">ヤドラン</string>
 	<string name="magnemite">コイル</string>
 	<string name="magneton">レアコイル</string>
-	<string name="farfetch'd">カモネギ</string>
+	<string name="farfetchd">カモネギ</string>
 	<string name="doduo">ドードー</string>
 	<string name="dodrio">ドードリオ</string>
 	<string name="seel">パウワウ</string>
@@ -249,7 +249,7 @@
 	<string name="pupitar">サナギラス</string>
 	<string name="tyranitar">バンギラス</string>
 	<string name="lugia">ルギア</string>
-	<string name="ho-oh">ホウオウ</string>
+	<string name="hooh">ホウオウ</string>
 	<string name="celebi">セレビィ</string>
 	<string name="treecko">キモリ</string>
 	<string name="grovyle">ジュプトル</string>
@@ -473,7 +473,7 @@
 	<string name="glaceon">グレイシア</string>
 	<string name="gliscor">グライオン</string>
 	<string name="mamoswine">マンムー</string>
-	<string name="porygon-z">ポリゴンZ</string>
+	<string name="porygonz">ポリゴンZ</string>
 	<string name="gallade">エルレイド</string>
 	<string name="probopass">ダイノーズ</string>
 	<string name="dusknoir">ヨノワール</string>

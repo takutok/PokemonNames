@@ -28,10 +28,10 @@
 	<string name="raichu">雷超</string>
 	<string name="sandshrew">穿山鼠</string>
 	<string name="sandslash">穿山王</string>
-	<string name="nidoran♀">尼美蘭</string>
+	<string name="nidoran_famale">尼美蘭</string>
 	<string name="nidorina">尼美蘿</string>
 	<string name="nidoqueen">尼美后</string>
-	<string name="nidoran♂">尼多郎</string>
+	<string name="nidoran_male">尼多郎</string>
 	<string name="nidorino">尼多利</string>
 	<string name="nidoking">尼多王</string>
 	<string name="clefairy">皮皮</string>
@@ -82,7 +82,7 @@
 	<string name="slowbro">大呆獸</string>
 	<string name="magnemite">小磁怪</string>
 	<string name="magneton">三合一磁怪</string>
-	<string name="farfetch'd">火蔥鴨</string>
+	<string name="farfetchd">火蔥鴨</string>
 	<string name="doduo">多多</string>
 	<string name="dodrio">多多利</string>
 	<string name="seel">小海獅</string>
@@ -249,7 +249,7 @@
 	<string name="pupitar">Pupitar</string>
 	<string name="tyranitar">Tyranitar</string>
 	<string name="lugia">Lugia</string>
-	<string name="ho-oh">Ho-Oh</string>
+	<string name="hooh">Ho-Oh</string>
 	<string name="celebi">Celebi</string>
 	<string name="treecko">Treecko</string>
 	<string name="grovyle">Grovyle</string>
@@ -473,7 +473,7 @@
 	<string name="glaceon">Glaceon</string>
 	<string name="gliscor">Gliscor</string>
 	<string name="mamoswine">Mamoswine</string>
-	<string name="porygon-z">Porygon-Z</string>
+	<string name="porygonz">Porygon-Z</string>
 	<string name="gallade">Gallade</string>
 	<string name="probopass">Probopass</string>
 	<string name="dusknoir">Dusknoir</string>

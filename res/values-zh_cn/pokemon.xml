@@ -28,10 +28,10 @@
 	<string name="raichu">雷丘</string>
 	<string name="sandshrew">穿山鼠</string>
 	<string name="sandslash">穿山王</string>
-	<string name="nidoran♀">尼多兰</string>
+	<string name="nidoran_famale">尼多兰</string>
 	<string name="nidorina">尼多娜</string>
 	<string name="nidoqueen">尼多后</string>
-	<string name="nidoran♂">尼多朗</string>
+	<string name="nidoran_male">尼多朗</string>
 	<string name="nidorino">尼多力诺</string>
 	<string name="nidoking">尼多王</string>
 	<string name="clefairy">皮皮</string>
@@ -82,7 +82,7 @@
 	<string name="slowbro">呆壳兽</string>
 	<string name="magnemite">小磁怪</string>
 	<string name="magneton">三合一磁怪</string>
-	<string name="farfetch'd">大葱鸭</string>
+	<string name="farfetchd">大葱鸭</string>
 	<string name="doduo">嘟嘟</string>
 	<string name="dodrio">嘟嘟利</string>
 	<string name="seel">小海狮</string>
@@ -249,7 +249,7 @@
 	<string name="pupitar">沙基拉</string>
 	<string name="tyranitar">班吉拉</string>
 	<string name="lugia">洛奇亚</string>
-	<string name="ho-oh">凤王</string>
+	<string name="hooh">凤王</string>
 	<string name="celebi">雪拉比</string>
 	<string name="treecko">木守宫</string>
 	<string name="grovyle">森林蜥蜴</string>
@@ -473,7 +473,7 @@
 	<string name="glaceon">冰精灵</string>
 	<string name="gliscor">天蝎王</string>
 	<string name="mamoswine">象牙猪</string>
-	<string name="porygon-z">3D龙Z</string>
+	<string name="porygonz">3D龙Z</string>
 	<string name="gallade">艾路雷朵</string>
 	<string name="probopass">大朝北鼻</string>
 	<string name="dusknoir">夜黑魔人</string>

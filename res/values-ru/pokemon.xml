@@ -28,10 +28,10 @@
 	<string name="raichu">Райчу</string>
 	<string name="sandshrew">Сэндшру</string>
 	<string name="sandslash">Сэндслэш</string>
-	<string name="nidoran♀">Нидоран♀</string>
+	<string name="nidoran_famale">Нидоран♀</string>
 	<string name="nidorina">Нидорина</string>
 	<string name="nidoqueen">Нидоквин</string>
-	<string name="nidoran♂">Нидоран♂</string>
+	<string name="nidoran_male">Нидоран♂</string>
 	<string name="nidorino">Нидорино</string>
 	<string name="nidoking">Нидокинг</string>
 	<string name="clefairy">Клефейри</string>
@@ -82,7 +82,7 @@
 	<string name="slowbro">Слоубро</string>
 	<string name="magnemite">Магнемайт</string>
 	<string name="magneton">Магнетон</string>
-	<string name="farfetch'd">Фарфетчд</string>
+	<string name="farfetchd">Фарфетчд</string>
 	<string name="doduo">Додуо</string>
 	<string name="dodrio">Додрио</string>
 	<string name="seel">Сил</string>
@@ -249,7 +249,7 @@
 	<string name="pupitar">Пьюпитар</string>
 	<string name="tyranitar">Тиранитар</string>
 	<string name="lugia">Лугия</string>
-	<string name="ho-oh">Хо-Ох</string>
+	<string name="hooh">Хо-Ох</string>
 	<string name="celebi">Селеби</string>
 	<string name="treecko">Трико</string>
 	<string name="grovyle">Гроувайл</string>
@@ -473,7 +473,7 @@
 	<string name="glaceon">Гласеон</string>
 	<string name="gliscor">Глайскор</string>
 	<string name="mamoswine">Мамосвайн</string>
-	<string name="porygon-z">Поригон-Z</string>
+	<string name="porygonz">Поригон-Z</string>
 	<string name="gallade">Галлейд</string>
 	<string name="probopass">Пробопасс</string>
 	<string name="dusknoir">Даскнуар</string>

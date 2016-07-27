@@ -18,7 +18,7 @@ for lang in lang_list:
 
   for n in range(1, len(json_data_l)):
     if str(n) in json_data_l:
-      wf.write("\t<string name=\"{0}\">{1}</string>\n".format(json_data_en[str(n)].lower().replace(".","").replace(" ", "_").encode('utf-8'), json_data_l[str(n)].encode('utf-8')));
+      wf.write("\t<string name=\"{0}\">{1}</string>\n".format(json_data_en[str(n)].lower().replace(".","").replace(" ", "_").replace("'", "").replace("-", "").encode('utf-8').replace("♂","_male").replace("♀","_famale"), json_data_l[str(n)].encode('utf-8')));
 
   wf.write("</resources>");
   rf.close()
@@ -31,7 +31,7 @@ wf = open('res/values/pokemon.xml', 'w')
 wf.write("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<resources>\n");
 
 for n in range(1, len(json_data_en)):
-  wf.write("\t<string name=\"{0}\">{1}</string>\n".format(json_data_en[str(n)].lower().replace(".","").replace(" ", "_").encode('utf-8'), json_data_en[str(n)].encode('utf-8')));
+  wf.write("\t<string name=\"{0}\">{1}</string>\n".format(json_data_en[str(n)].lower().replace(".","").replace(" ", "_").replace("'", "").replace("-", "").encode('utf-8').replace("♂","_male").replace("♀","_famale"), json_data_en[str(n)].encode('utf-8')));
 
 wf.write("</resources>");
 
